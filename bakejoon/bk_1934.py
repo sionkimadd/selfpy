@@ -1,4 +1,4 @@
-#1934_least common multiple
+# 1934_least common multiple
 T = int(input())
 if 1<=T<=1000:
     for _ in range(T):
