@@ -1,4 +1,4 @@
-# 2588_곱셈
+# 2588_multiplication
 A = int(input())
 B = int(input())
 if all(100<= x <=999 for x in (A,B)):
