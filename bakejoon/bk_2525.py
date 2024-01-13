@@ -1,4 +1,4 @@
-# 2525 오븐
+# 2525_over clock
 H, M = map(int, input().split())
 T = int(input())
 if H>=0 and H<=23 and M>=0 and M<=59 and T>=0 and T<=1000:
